@@ -27,8 +27,7 @@ It trains a Generator and a Discriminator in an adversarial setup, producing rea
 ## ⚙️ Installation
 Clone the repository and install dependencies:
 
-```bash
-git clone https://github.com/<your-username>/Handwriting_GAN.git
+" git clone https://github.com/<your-username>/Handwriting_GAN.git "
 cd Handwriting_GAN
 pip install -r requirements.txt
 
