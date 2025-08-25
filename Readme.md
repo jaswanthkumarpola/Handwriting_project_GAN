@@ -1,4 +1,4 @@
-z# 🖊️ Handwriting Generator using GAN (PyTorch)
+<img width="640" height="480" alt="epoch_1" src="https://github.com/user-attachments/assets/64963201-2b0c-448d-87fd-34b41dae74de" /># 🖊️ Handwriting Generator using GAN (PyTorch)
 
 ## 📌 Overview
 This project implements a **Generative Adversarial Network (GAN)** in PyTorch to generate synthetic handwriting images.  
@@ -31,6 +31,8 @@ Clone the repository and install dependencies:
 cd Handwriting_GAN
 pip install -r requirements.txt
 
+---
+
 1.▶️ Usage
 - jupyter notebook Hand_writing_Generator.ipynb
 
@@ -49,16 +51,17 @@ pip install -r requirements.txt
 │── README.md                      # Documentation
 │── outputs/                       # Generated images (after training)
 
-
-
+---
 
 📊 Results
-After training for ~100 epochs, the Generator produces handwriting-like images:
+- After training for ~100 epochs, the Generator produces handwriting-like images:
+- <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/2710527c-d6d5-411e-a46c-4d523884257a" />
+- <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/60a7ca25-b10a-4a27-8acf-10a97c6a085f" />
 
+---
 
 👨‍💻 Author
-
-Jaswanth Kuamr Pola - github.com/jaswanthkumarpola
+- Jaswanth Kuamr Pola - github.com/jaswanthkumarpola
 
 
 
