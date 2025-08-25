@@ -1,4 +1,4 @@
-<img width="640" height="480" alt="epoch_1" src="https://github.com/user-attachments/assets/64963201-2b0c-448d-87fd-34b41dae74de" /># 🖊️ Handwriting Generator using GAN (PyTorch)
+# 🖊️ Handwriting Generator using GAN (PyTorch)
 
 ## 📌 Overview
 This project implements a **Generative Adversarial Network (GAN)** in PyTorch to generate synthetic handwriting images.  
